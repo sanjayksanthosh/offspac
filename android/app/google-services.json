@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949333929530",
+    "project_id": "offspace-37f43",
+    "storage_bucket": "offspace-37f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949333929530:android:e8cbdd20b888329f5a0f03",
+        "android_client_info": {
+          "package_name": "com.astral.offspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949333929530-ouh64kpo52jlimrr43no6dups9apbqm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2r_C5URt2aY22_3bEc1YQV7rwFjAXp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949333929530-ouh64kpo52jlimrr43no6dups9apbqm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
